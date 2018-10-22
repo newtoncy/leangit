@@ -51,6 +51,10 @@
 
 - 远程仓库
 
+  ```shell
+  git remote add <origin> <url>
+  git push [origin] [branck]
+  ```
 
 
 
